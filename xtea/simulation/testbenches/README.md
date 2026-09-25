@@ -1,0 +1,1 @@
+**NOTE:** The testbench for this part was provided as part of the coursework brief, and is therefore not attached in this repository. It consists of an automated testbench that sends three 128-bit sets of input data and keys, and checks automatically whether the XTEA implementation passes the tests.
